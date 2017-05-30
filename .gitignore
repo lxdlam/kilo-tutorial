@@ -1,3 +1,4 @@
+# Original
 ftp.yml
 .cached-diffs
 steps/
@@ -5,6 +6,10 @@ repo/
 doc/html_out/
 doc/html_offline/
 *.zip
+
+# Ignore kilo's bianry and C
+kilo
+kilo.c
 
 # Created by https://www.gitignore.io/api/linux,visualstudiocode
 
